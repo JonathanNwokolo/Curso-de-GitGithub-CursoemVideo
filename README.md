@@ -30,7 +30,8 @@ Planejo utilizar este conhecimento para aplicar em meus projetos de Front-End (H
 Sinta-se à vontade para me seguir ou entrar em contato para trocarmos experiências!
 
 
-<img width="541" height="609" alt="image" src="https://github.com/user-attachments/assets/b6805e54-8e35-40c3-98f4-a78ba571f518" />
+![comandos git](https://github.com/user-attachments/assets/e068d6e3-46de-421e-8ff3-de86b891f91c)
+
 
 
 ---
